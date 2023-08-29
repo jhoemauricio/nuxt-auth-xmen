@@ -1,0 +1,104 @@
+[
+    {
+        "nome": "Scott Summers",
+        "codinome": "Cyclops",
+        "poder": "Cyclops possui a habilidade mutante de projetar um poderoso feixe de força de concussão de cor rubi de seus olhos.",
+        "imgCard": "../img/Card-cyclops.jpg",
+        "img": "../img/Cyclops.png"
+    },
+    {
+        "nome": "Jean Grey",
+        "codinome": "Fenix Negra",
+        "poder": "Jean é capaz de ler pensamentos, projetar e transmitirseus própriospensamentos, bem comoafetar as mentes dosseres humanos e animaiscom inteligênciasuperior.",
+        "imgCard":"../img/card-jean-grey.jpg",
+        "img": "../img/card-jean-grey.png"
+
+    },
+    {
+        "nome": "Hank McCoy",
+        "codinome": "Fera",
+        "poder": "O Fera pode correr e se mover a velocidades ligeiramente além dos limites físicos naturais do melhor atleta humano. Ele pode correr a velocidades de até 40 milhas por hora em curtas distâncias, particularmente se ele corre de quatro patas.",
+        "imgCard": "../img/card-fera.png",
+        "img": "../img/Fera.png"
+    },
+    {
+        "nome": "Kitty Pryde",
+        "codinome": "Lince Negra",
+        "poder": "O seu poder é mais conhecido pelo nome de intangibilidade. Neste estado, também chamado de entrar em fase, ela consegue atravessar objetos sólidos.",
+        "imgCard": "../img/card-lince-negra.jpg",
+        "img": "../img/card-lince-negra.png"
+    },
+    {
+        "nome": "Erik Lensherr",
+        "codinome": "Magneto",
+        "poder": " Magneto tem controlo total sobre todas as formas de magnetismo e utiliza esse controle para manipular metais ferrosos.",
+        "imgCard": "../img/card-magneto.jpg",
+        "img": "../img/card-magneto.png"
+    },
+    {
+        "nome": "Raven Darkholme",
+        "codinome": "Mística",
+        "poder": "Possui o poder de transmutação, a capacidade de mudar psiquicamente a formação de suas células biológicas para mudar sua aparência.",
+        "imgCard": "../img/card-mystica.png",
+        "img": "../img/Mystica.png"
+    },
+    {
+        "nome": "Kurt Wagner",
+        "codinome": "Noturno",
+        "poder": "Teletransporte, super agilidade, aderência física, visão noturna, habilidades acrobáticas e a habilidade de fundir-se com as sombras.",
+        "imgCard": "../img/card-noturno.jpg",
+        "img": "../img/Noturno.png"
+    },
+    {
+        "nome": "Ororo Munroe",
+        "codinome": "Tempestade",
+        "poder": "Capacidade de controlar as forças naturais que incluem tempestades cósmicas, vento solar, correntes oceânicas, e do campo eletromagnético.",
+        "imgCard": "../img/card-tempestade.jpg",
+        "img": "../img/card-tempestade.png"
+    },
+    {
+        "nome": "Anna Marie",
+        "codinome": "Vampira",
+        "poder": "Vampira pode absorver os poderes, energias, memórias, conhecimento, talento, personalidade e habilidades físicas.",
+        "imgCard": "../img/card-vampira.jpg",
+        "img": "../img/Vampira.png"
+    },
+    {
+        "nome": "Logan",
+        "codinome": "Wolverine",
+        "poder": "Ossos e garras revestidos de adamantium, fator de cura.",
+        "imgCard": "../img/card-wolverine.jpg",
+        "img": "../img/Wolverine.png"
+    },
+    {
+        "nome": "Victor Creed",
+        "codinome": "Dentes de Sabre",
+        "poder": "Capaz de levantar em 20 a 40 toneladas, no entanto, a extensão de sua força continuamente aumentada nunca foi revelada.",
+        "imgCard": "../img/Dentes-card.jpg",
+        "img": "../img/Dentes-sabre.png"
+    },
+
+      {
+        "nome": "Wanda Maximoff",
+        "codinome": "Feiticeira Escarlate",
+        "poder": "Ela é capaz de desviar objetos e ataques, gerar combustão instantânea ou enferrujar metais, além de outros eventos improváveis.",
+        "imgCard": "../img/Feiticeira-card.jpg",
+        "img": "../img/Feiticeira.png"
+    },
+    {
+        "nome": "Jubilation Lee",
+        "codinome": "jubileu",
+        "poder": "Com uma personalidade otimista e a capacidade de transformar qualquer campo de batalha em uma exibição colorida com seus fogos de artifício.",
+        "imgCard": "../img/Jubileu-card.jpg",
+        "img":"../img/Jubileu.png"
+    },
+    {
+        "nome": "Remy LeBeau",
+        "codinome": "Gambit",
+        "poder": "Ele é extremamente hábil em arremessar objetos pequenos, tais como cartas, boleadeira, facas e bolas com grande precisão.",
+        "imgCard": "../img/Gambit-card.jpg",
+        "img":"../img/Gambit.png"
+    }
+   
+]
+
